@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\ImageReaderSource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\jpgd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\ImageReaderSource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\jpgd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\steve\Documents\GitHub\zxing\cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{01387E53-2D0A-3190-A66A-AEE8AEE984C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7B315F97-FDA1-3D00-93E2-E5133EAACB66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

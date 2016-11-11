@@ -1,0 +1,558 @@
+﻿  Building Custom Rule C:/Users/steve/Documents/GitHub/zxing/cpp/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\steve\Documents\GitHub\zxing\cpp\bin\CMakeFiles\generate.stamp is up-to-date.
+  AztecDetectorResult.cpp
+  AztecReader.cpp
+  BarcodeFormat.cpp
+  Binarizer.cpp
+  BinaryBitmap.cpp
+  ChecksumException.cpp
+  BitArray.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\BitArray.cpp(45): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\BitArray.cpp(45): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  BitArrayIO.cpp
+  BitMatrix.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\BitMatrix.cpp(99): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\BitMatrix.cpp(99): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  BitSource.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=zxing::BitSource::byte
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\BitSource.cpp(74): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=zxing::BitSource::byte
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\BitSource.cpp(74): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=zxing::BitSource::byte
+          ]
+  CharacterSetECI.cpp
+  DecoderResult.cpp
+  MonochromeRectangleDetector.cpp
+  WhiteRectangleDetector.cpp
+  DetectorResult.cpp
+  GlobalHistogramBinarizer.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GlobalHistogramBinarizer.cpp(48): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GlobalHistogramBinarizer.cpp(48): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  GreyscaleLuminanceSource.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GreyscaleLuminanceSource.cpp(50): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GreyscaleLuminanceSource.cpp(50): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  GreyscaleRotatedLuminanceSource.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GreyscaleRotatedLuminanceSource.cpp(52): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GreyscaleRotatedLuminanceSource.cpp(52): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  GridSampler.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GridSampler.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\GridSampler.cpp(60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HybridBinarizer.cpp
+  Generating Code...
+  Compiling...
+  IllegalArgumentException.cpp
+  PerspectiveTransform.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\PerspectiveTransform.cpp(90): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GenericGF.cpp
+  GenericGFPoly.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\reedsolomon\GenericGFPoly.cpp(37): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\reedsolomon\GenericGFPoly.cpp(37): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  ReedSolomonDecoder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\reedsolomon\ReedSolomonDecoder.cpp(48): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\reedsolomon\ReedSolomonDecoder.cpp(48): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  ReedSolomonException.cpp
+  Str.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\Str.cpp(42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\common\Str.cpp(44): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  StringUtils.cpp
+  DataMatrixReader.cpp
+  CornerPoint.cpp
+  DetectorException.cpp
+  DecodeHints.cpp
+  Exception.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\Exception.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FormatException.cpp
+  InvertedLuminanceSource.cpp
+  LuminanceSource.cpp
+  ByQuadrantReader.cpp
+  GenericMultipleBarcodeReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\multi\GenericMultipleBarcodeReader.cpp(86): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\multi\GenericMultipleBarcodeReader.cpp(76): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  MultipleBarcodeReader.cpp
+  MultiDetector.cpp
+  Generating Code...
+  Compiling...
+  MultiFinderPatternFinder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\multi\qrcode\detector\MultiFinderPatternFinder.cpp(141): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QRCodeMultiReader.cpp
+  MultiFormatReader.cpp
+  CodaBarReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\CodaBarReader.cpp(82): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\CodaBarReader.cpp(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Code128Reader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code128Reader.cpp(188): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code128Reader.cpp(311): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code128Reader.cpp(458): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code128Reader.cpp(477): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Code39Reader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(98): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(120): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(130): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(141): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(144): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(185): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(221): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code39Reader.cpp(275): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Code93Reader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(92): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(102): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(143): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(179): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(181): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(215): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(274): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\Code93Reader.cpp(285): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  EAN13Reader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\EAN13Reader.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\EAN13Reader.cpp(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EAN8Reader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\EAN8Reader.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\EAN8Reader.cpp(56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ITFReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\ITFReader.cpp(158): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\ITFReader.cpp(277): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\ITFReader.cpp(104): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\ITFReader.cpp(48): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  MultiFormatOneDReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\MultiFormatOneDReader.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MultiFormatUPCEANReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\MultiFormatUPCEANReader.cpp(67): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OneDReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\OneDReader.cpp(162): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\OneDReader.cpp(196): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\OneDReader.cpp(55): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\OneDReader.cpp(53): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  OneDResultPoint.cpp
+  UPCAReader.cpp
+  UPCEANReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\UPCEANReader.cpp(209): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\UPCEANReader.cpp(252): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\UPCEANReader.cpp(284): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UPCEReader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\oned\UPCEReader.cpp(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ErrorCorrection.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\ec\ErrorCorrection.cpp(65): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\ec\ErrorCorrection.cpp(52): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  ModulusGF.cpp
+  ModulusPoly.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\ec\ModulusPoly.cpp(36): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\ec\ModulusPoly.cpp(36): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  Compiling...
+  LinesSampler.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\detector\LinesSampler.cpp(156): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PDF417Reader.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\PDF417Reader.cpp(51): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\PDF417Reader.cpp(51): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  DataMask.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\DataMask.cpp(51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\DataMask.cpp(155): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Mode.cpp
+  AlignmentPattern.cpp
+  AlignmentPatternFinder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\AlignmentPatternFinder.cpp(105): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FinderPattern.cpp
+  FinderPatternFinder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(123): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(140): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(141): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(148): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(155): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(181): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(182): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(189): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(196): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(204): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(205): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(212): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(219): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(239): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(451): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\detector\FinderPatternFinder.cpp(469): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FinderPatternInfo.cpp
+  ErrorCorrectionLevel.cpp
+  FormatInformation.cpp
+  QRCodeReader.cpp
+  Reader.cpp
+  Result.cpp
+  ResultIO.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\ResultIO.cpp(31): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\ResultIO.cpp(31): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  ResultPoint.cpp
+  ResultPointCallback.cpp
+  BigInteger.cc
+  BigIntegerAlgorithms.cc
+  BigIntegerUtils.cc
+  Generating Code...
+  Compiling...
+  BigUnsigned.cc
+  BigUnsignedInABase.cc
+  Generating Code...
+  Decoder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\aztec\decoder\Decoder.cpp(438): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Detector.cpp
+  BitMatrixParser.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\BitMatrixParser.cpp(30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DataBlock.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\DataBlock.cpp(70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\DataBlock.cpp(69): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\DataBlock.cpp(69): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  DecodedBitStreamParser.cpp
+  Decoder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\Decoder.cpp(70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\Decoder.cpp(41): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\decoder\Decoder.cpp(41): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  Detector.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\detector\Detector.cpp(428): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Version.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\datamatrix\Version.cpp(196): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  BitMatrixParser.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\BitMatrixParser.cpp(129): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\BitMatrixParser.cpp(75): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  DecodedBitStreamParser.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\DecodedBitStreamParser.cpp(110): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\DecodedBitStreamParser.cpp(110): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  Decoder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\Decoder.cpp(48): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\decoder\Decoder.cpp(48): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  Detector.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\detector\Detector.cpp(307): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\pdf417\detector\Detector.cpp(155): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  BitMatrixParser.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\BitMatrixParser.cpp(29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DataBlock.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\DataBlock.cpp(75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\DataBlock.cpp(74): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\DataBlock.cpp(74): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  DecodedBitStreamParser.cpp
+  Decoder.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\.\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\Decoder.cpp(45): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\decoder\Decoder.cpp(45): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  Detector.cpp
+  Version.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\Version.cpp(163): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing\qrcode\Version.cpp(556): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  libzxing.vcxproj -> C:\Users\steve\Documents\GitHub\zxing\cpp\bin\Release\libzxing.lib

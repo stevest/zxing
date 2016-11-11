@@ -1,0 +1,52 @@
+﻿  ImageReaderSource.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\ImageReaderSource.cpp(73): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=char
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\ImageReaderSource.cpp(73): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=char
+          ]
+  jpgd.cpp
+  lodepng.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(795): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(803): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(804): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(833): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(834): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(1472): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(1505): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(3407): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(3413): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(4373): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(4421): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(4501): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(5428): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\lodepng.cpp(5647): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing/common/Array.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\steve\Documents\GitHub\zxing\cpp\core\src\zxing/common/Array.h(72): note: while compiling class template member function 'int zxing::Array<T>::size(void) const'
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\main.cpp(133): note: see reference to function template instantiation 'int zxing::Array<T>::size(void) const' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  C:\Users\steve\Documents\GitHub\zxing\cpp\cli\src\main.cpp(133): note: see reference to class template instantiation 'zxing::Array<T>' being compiled
+          with
+          [
+              T=zxing::Ref<zxing::ResultPoint>
+          ]
+  Generating Code...
+  zxing.vcxproj -> C:\Users\steve\Documents\GitHub\zxing\cpp\bin\Debug\zxing.exe

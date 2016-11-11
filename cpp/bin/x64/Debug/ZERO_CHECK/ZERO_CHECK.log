@@ -1,0 +1,12 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/steve/Documents/GitHub/zxing/cpp/bin/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/steve/Documents/GitHub/zxing/cpp/CMakeLists.txt'
+    is newer than 'C:/Users/steve/Documents/GitHub/zxing/cpp/bin/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  CMake Warning at CMakeLists.txt:83 (message):
+    Not building testrunner, because CppUnit is missing
+  
+  
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/steve/Documents/GitHub/zxing/cpp/bin

@@ -1,0 +1,4 @@
+C:/Users/steve/Documents/GitHub/zxing/cpp/bin/CMakeFiles/libzxing.dir
+C:/Users/steve/Documents/GitHub/zxing/cpp/bin/CMakeFiles/zxing.dir
+C:/Users/steve/Documents/GitHub/zxing/cpp/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/steve/Documents/GitHub/zxing/cpp/bin/CMakeFiles/ZERO_CHECK.dir
